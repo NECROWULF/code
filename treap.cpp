@@ -21,6 +21,10 @@ namespace treap{
         void Merge(Treap treap2){
             if(treap2.root == nullptr){
                 return;
+            }else{
+                if(root.x > root.y){
+                    return;
+                }
             }
         }
     };

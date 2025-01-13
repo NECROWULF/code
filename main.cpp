@@ -8,5 +8,5 @@ using namespace std;
 
 
 signed main(){
-
+    treap::Treap<int, int> tr;
 }
