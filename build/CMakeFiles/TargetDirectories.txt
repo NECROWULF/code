@@ -1,3 +1,0 @@
-/home/matvey/code/build/CMakeFiles/main.dir
-/home/matvey/code/build/CMakeFiles/edit_cache.dir
-/home/matvey/code/build/CMakeFiles/rebuild_cache.dir
